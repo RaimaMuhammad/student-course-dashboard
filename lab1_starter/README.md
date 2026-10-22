@@ -61,11 +61,11 @@ npm run dev
 
 ### Desktop view
 
-![Student Course Dashboard at desktop width](screenshots/desktop.png)
+![Student Course Dashboard at desktop width](src/screenshots/desktop.png)
 
 ### Phone view
 
-![Student Course Dashboard at phone width](screenshots/mobile.png)
+![Student Course Dashboard at phone width](src/screenshots/mobile.png)
 
 ## Component overview
 
